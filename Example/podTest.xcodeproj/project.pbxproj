@@ -27,9 +27,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4FCF90EAB3884BC175959C84 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		5D72C3621B6970D08D6A41B1 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		6C2C59E7CF15C34AC127011A /* podTest.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = podTest.podspec; path = ../podTest.podspec; sourceTree = "<group>"; };
+		4FCF90EAB3884BC175959C84 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		5D72C3621B6970D08D6A41B1 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		6C2C59E7CF15C34AC127011A /* podTest.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = podTest.podspec; path = ../podTest.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		84751B9417C8511EE9BDAB37 /* Pods_podTest_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_podTest_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		855432582A6644E3BC000D38 /* Pods-podTest_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-podTest_Example.release.xcconfig"; path = "Target Support Files/Pods-podTest_Example/Pods-podTest_Example.release.xcconfig"; sourceTree = "<group>"; };
 		883833F2C707743EC0A467A5 /* Pods-podTest_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-podTest_Tests.release.xcconfig"; path = "Target Support Files/Pods-podTest_Tests/Pods-podTest_Tests.release.xcconfig"; sourceTree = "<group>"; };
@@ -85,7 +85,6 @@
 				F1DA438E56A6D8F773FC6A6D /* Pods-podTest_Tests.debug.xcconfig */,
 				883833F2C707743EC0A467A5 /* Pods-podTest_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
